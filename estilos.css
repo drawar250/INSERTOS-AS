@@ -69,14 +69,8 @@ body {
 
   /* Estilo del boton de pago de MercadoPago */
   .button {
-      display: inline-block;
-        background-color: #1ee300;
-          color: rgb(226, 43, 43);
-            font-weight: bold;
-              font-size: 300px;
-                padding: 20px 30px;
-                  border-radius: 10px;
-                    text-decoration: none;
-                    }
+      background-color: rgb(38, 255, 0);
+      border: 10px; 
+                   }
 
                     
