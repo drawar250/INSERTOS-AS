@@ -1,4 +1,4 @@
-un/* Estilo general de la página */
+/* Estilo general de la página */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -15,7 +15,7 @@ body {
   
   /* Estilo del título */
   h1 {
-    font-size: 40px;
+    font-size: 100 px;
     margin: 0;
   }
   
